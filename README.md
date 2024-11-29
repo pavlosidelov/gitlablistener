@@ -12,7 +12,7 @@ Preparation:
 8. Custom HTTP headers push Add header. Set Header = Content-Type, Value = application/json
 9. After, save the "Verification token"
 10. Replace "Verification token" in gitlab_events_listener.py
-11. Replace the mail server address and passwords in "gitlab_events_listener.py"
+11. Replace the mail server address and passwords in "gitlab_events_listener.py" in Variables section
 12. Deploy "gitlab_events_listener.py" on your server
 13. Run with "python3 gitlab_events_listener.py"
 
