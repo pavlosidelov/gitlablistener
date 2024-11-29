@@ -1,5 +1,5 @@
-# gitlablistener
-GitLab notification listener. Sends you emails about GitLab actions.
+# GitLab Events Listener
+GitLab notification listener. This Service will send you emails about GitLab actions.
 
 Preparation:
 1. Open GitLab Dashboard.
